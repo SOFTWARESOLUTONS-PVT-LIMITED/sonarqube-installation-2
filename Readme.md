@@ -5,7 +5,7 @@ SonarQube is an open-source platform developed by SonarSource for continuous ins
     1. docker
     2. docker-compose
 ## Starting Sonarqube
-    command `docker-compose -f sonarqube.yml up -d ` 
+    command `docker-compose -f sonarqube.yml up -d` 
     -d => detached process from current session and run it in background
     -f => Specify an alternate compose file default is docker-compose.yml
 
